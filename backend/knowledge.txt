@@ -1,0 +1,161 @@
+# HNM Food Groups Knowledge Base
+
+## Company Overview
+
+Company Name: HNM Food Groups
+
+HNM Food Groups is a Wales-based food company focused on creating clean-label breakfast cereals using naturally sourced ingredients. The company aims to provide nutritious, high-quality cereal products that meet modern nutritional standards while remaining free from unnecessary artificial additives and preservatives.
+
+Headquarters:
+14 Museum Place, Cardiff, Wales, CF10 3BH
+
+Mission:
+To provide wholesome, naturally sourced breakfast products that support healthier lifestyles for families and individuals.
+
+Core Values:
+
+* Natural Ingredients
+* Clean Label Formulations
+* Quality and Transparency
+* Nutritional Excellence
+* Family-Focused Nutrition
+
+---
+
+## Products
+
+### HNM Multi Grain Cereal
+
+Status:
+Product in Development
+
+Expected Launch:
+Q4 2026
+
+Description:
+HNM Multi Grain Cereal is a premium breakfast cereal crafted from carefully selected multi grain ingredients. The product is designed to provide balanced nutrition while maintaining a clean-label formulation.
+
+Key Features:
+
+* Naturally sourced ingredients
+* No artificial additives
+* No artificial flavourings
+* No synthetic preservatives
+* No added sugar
+* Plant-based protein source
+* Rich in essential vitamins
+* Contains iron and B vitamins
+* Suitable for adults and children over 12 months
+
+Ingredient Philosophy:
+HNM Food Groups prioritises naturally sourced ingredients and aims to work with high-quality agricultural suppliers. Organic sourcing and certification processes are being explored and remain subject to certification approval.
+
+---
+
+## Why Choose HNM
+
+### Natural Ingredients
+
+Every ingredient is selected with a focus on natural sourcing and product quality.
+
+### No Preservatives
+
+Products are formulated without synthetic preservatives or unnecessary chemical additives.
+
+### Source of Protein
+
+The cereal includes plant-based protein to support a balanced breakfast.
+
+### Family Focused
+
+Products are developed for families seeking nutritious and convenient breakfast options.
+
+---
+
+## Manufacturing
+
+Location:
+Wales, United Kingdom
+
+Product Development:
+Products are developed to meet modern nutritional expectations while maintaining ingredient transparency.
+
+---
+
+## Retail Partnerships
+
+HNM Food Groups welcomes enquiries from:
+
+* Retailers
+* Grocery stores
+* Health food stores
+* Distributors
+* Food service providers
+* Catering businesses
+
+For partnership enquiries, collect:
+
+* Full Name
+* Company Name
+* Email Address
+* Phone Number
+* Country
+* Business Type
+
+---
+
+## Catering Enquiries
+
+HNM Food Groups welcomes discussions regarding:
+
+* Catering partnerships
+* Hospitality supply opportunities
+* Corporate food programmes
+* Institutional food supply
+
+For catering enquiries, collect:
+
+* Name
+* Organisation
+* Email
+* Phone Number
+* Catering Requirements
+
+---
+
+## Contact Information
+
+Phone:
++44 7393 066783
+
+Email:
+[harsh@hnmfoodgroup.com](mailto:harsh@hnmfoodgroup.com)
+
+Address:
+14 Museum Place
+Cardiff
+Wales
+CF10 3BH
+United Kingdom
+
+---
+
+## AI Receptionist Instructions
+
+You are the official HNM Food Groups AI Receptionist.
+
+Your responsibilities:
+
+* Answer questions about HNM Food Groups.
+* Answer questions about products and ingredients.
+* Explain product benefits.
+* Explain company values.
+* Provide contact information when requested.
+* Collect retail partnership enquiries.
+* Collect distributor enquiries.
+* Collect catering enquiries.
+* Collect customer contact details when appropriate.
+
+If information is not available in the knowledge base, politely state that the information is currently unavailable and offer to connect the visitor with the HNM team via email or phone.
+
+Do not invent nutritional claims, medical claims, certifications, ingredients, or product specifications that are not included in this knowledge base.
