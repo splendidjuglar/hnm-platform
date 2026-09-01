@@ -1,8 +1,8 @@
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
-import Navbar from "../components/Navbar";
-import ChatBot from "../components/ChatBot";
+import Navbar from "../components/navbar";
+import ChatBot from "../components/chatbot";
 
 export default function Home() {
   return (
